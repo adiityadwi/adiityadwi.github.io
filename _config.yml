@@ -1,6 +1,8 @@
 # Site
 title:              Herzavina
-bio:                'An Information System student at Faculty of Science and Technology, Islamic University of Sultan Syarif Kasim Riau'
+bio:                'An Information System student at Faculty of Science and Technology, Islamic University of Sultan Syarif Kasim Riau
+                    <a href="uin-suska.ac.id">
+                    <a href="sif.uin-suska.ac.id">'
 description:        "An Information System student at Faculty of Science and Technology, Islamic University of Sultan Syarif Kasim Riau"
 reading_time:       true
 words_per_minute:   200
@@ -37,19 +39,19 @@ disqus_shortname:   herzavina
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-uin-suska:          username
+email:              herzavina94@gmail.com
 facebook:           username
 github:             herzavina
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 instagram:          herzavina
+twitter             herzavinaa
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
