@@ -35,7 +35,7 @@ $(document).ready(function() {
         locationOffset: 20,
         containerRadius: 0,
         containerColor: '#eee',
-        arrowColor: '#000',
+        arrowColor: '#eee',
         goupSpeed: 'normal'
     });
 	$('.image-popup').magnificPopup({
