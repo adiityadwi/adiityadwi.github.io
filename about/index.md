@@ -10,11 +10,10 @@ date: 2016-03-21
 * Gender                : Female
 * Place, Date of Birth  : Pekanbaru, October 4th 1994
 * Religions             : Moslem
-* Educational Background: 
-  SDN O29 Pandau Jaya
-  SMPN 10 Pekanbaru
-  SMAN 1  Pekanbaru
-  University of Sultan Syarif Kasim Riau, Information System Majority
+* Educational Background: SDN O29 Pandau Jaya
+                          SMPN 10 Pekanbaru
+                          SMAN 1  Pekanbaru
+                          University of Sultan Syarif Kasim Riau, Information System Majority
 
 
 ## Preview
