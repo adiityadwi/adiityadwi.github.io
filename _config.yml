@@ -1,10 +1,6 @@
 # Site
 title:              Herzavina
 bio:                'An Information System student at Faculty of Science and Technology, Islamic University of Sultan Syarif Kasim Riau
-sisteminformasi:
-                    Islamic University of Sultan Syarif Kasim Riau
-                    
-                    url:http://sif.uin-suska.ac.id'
 description:        "An Information System student at Faculty of Science and Technology, Islamic University of Sultan Syarif Kasim Riau"
 reading_time:       true
 words_per_minute:   200
@@ -41,6 +37,7 @@ disqus_shortname:   herzavina
   #ad-client:
   #ad-slot:
 #bing-verify:
+sisteminformasi:    username
 email:              herzavina94@gmail.com
 twitter :           herzavina
 facebook:           herza.vina
