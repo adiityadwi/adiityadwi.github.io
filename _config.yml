@@ -1,14 +1,14 @@
 # Site
-title:              Herzavina
-bio:                'An Information System Student at Islamic University Of Sultan Syarif Kasim Riau, Departement Of Science and Technology'
-description:        "An Information System Student at Islamic University Of Sultan Syarif Kasim Riau, Departement Of Science and Technology"
+title:              Warung Dakwah
+bio:                'Informasi dan Dakwah'
+description:        "Informasi dan Dakwah"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://herzavina.github.io
+url:                http://rangga1.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   herzavina
+disqus_shortname:   warungdakwah
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,15 +37,15 @@ disqus_shortname:   herzavina
   #ad-client:
   #ad-slot:
 #bing-verify:
-sisteminformasi:           username
-email:              username
-twitter :           herzavina
-facebook:           herza.vina
-github:             herzavina
+informasi dan dakwah:   warung dakwah           
+email:              rdwinugrawan@gmail.com
+twitter :           warungdakwah
+facebook:           warungdakwah
+github:             rangga1
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          herzavina
+instagram:          warungdakwah
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -69,7 +69,7 @@ gems:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://herzavina/herzavina.github.io
+    base_url: https://rangga1/rangga1.github.io
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
