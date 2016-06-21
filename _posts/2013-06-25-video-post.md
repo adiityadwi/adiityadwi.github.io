@@ -9,4 +9,10 @@ tag:
 - video
 comments: true
 ---
+* ceramah ramadhan di mesjid annur pekanbaru
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+
+* ceramah ramadhan di mesjid raya jakarta
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
