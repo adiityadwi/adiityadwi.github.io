@@ -9,10 +9,10 @@ tag:
 - video
 comments: true
 ---
-* ceramah ramadhan di mesjid annur pekanbaru
+* ceramah ramadhan Ustad Wijayanto
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=jx_S9aAK78k" frameborder="0"> </iframe>
 
-* ceramah ramadhan di mesjid raya jakarta
+* ceramah ramadhan Ustad Buya Yahya
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=w-Sb9YjwRU8" frameborder="0"> </iframe>
