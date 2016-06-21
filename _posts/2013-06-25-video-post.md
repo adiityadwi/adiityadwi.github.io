@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "VIDEO CERAMAH "SPESIAL RAMADHAN""
+title:  "A Post with a Video"
 date:   2016-03-15
-excerpt: "video ceramah ramadhan diberbagai daerah diindonesia."
+excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
 tag:
-- video ceramah
-- ramadhan
-- indonesia muslim
+- sample
+- post
+- video
 comments: true
 ---
 <iframe width="560" height="315" src="//www.youtube.com/embed/SU3kYxJmWuQ" frameborder="0"> </iframe>
