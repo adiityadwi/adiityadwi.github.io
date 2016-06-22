@@ -58,3 +58,18 @@ date: 2016-03-21
 * Departement           : [Information System](http://sif.uin-suska.ac.id/)<br>
 * Faculty               : [Science and Technology](http://fst.uin-suska.ac.id/)<br>
 * University            : [Islamic University of Sultan Syarif Kasim Riau](http://uin-suska.ac.id/)<br>
+
+
+## LocalStorage Count
+
+<script type="text/javascript">
+if (localStorage.pagecount)
+ {
+localStorage.pagecount=Number(localStorage.pagecount) +1;
+ }
+else
+{
+localStorage.pagecount=1;
+}
+document.write("Halaman ini baru Anda kunjungi sebanyak "+ localStorage.pagecount + " kali.");
+</script>
