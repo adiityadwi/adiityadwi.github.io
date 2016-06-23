@@ -24,3 +24,7 @@ comments: true
 * Trailer Film Central Intelligence
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/MxEw3elSJ8M" frameborder="0"></iframe>
+
+* Trailer Film Finding Dory
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/CBa4r_aKtYI" frameborder="0"></iframe>
