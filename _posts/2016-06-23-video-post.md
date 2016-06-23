@@ -28,3 +28,19 @@ comments: true
 * Trailer Film Finding Dory
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/CBa4r_aKtYI" frameborder="0"></iframe>
+
+
+
+## LocalStorage Count
+
+<script type="text/javascript">
+if (localStorage.pagecount)
+ {
+localStorage.pagecount=Number(localStorage.pagecount) +1;
+ }
+else
+{
+localStorage.pagecount=1;
+}
+document.write("Halaman ini baru Anda kunjungi sebanyak "+ localStorage.pagecount + " kali.");
+</script>
