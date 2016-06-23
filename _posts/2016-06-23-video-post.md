@@ -2,7 +2,7 @@
 layout: post
 title:  "VIDEO TRAILER FILM HARI INI"
 date:   2016-06-23
-excerpt: "Trailer Film Hari Ini."
+excerpt: "Video trailer film."
 tag:
 - sample
 - post
