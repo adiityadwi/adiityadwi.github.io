@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Profil Owner Warung Dakwah
+title: Profil Owner Website Bioskop XXI
 tags: [profil]
 date: 2016-03-21
 ---
