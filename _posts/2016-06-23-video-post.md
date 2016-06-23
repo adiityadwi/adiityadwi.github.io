@@ -2,7 +2,7 @@
 layout: post
 title:  "VIDEO TRAILER FILM HARI INI"
 date:   2016-06-23
-excerpt: "Video ceramah ramadhan diberbagai daerah di indonesia."
+excerpt: "Trailer Film Hari Ini."
 tag:
 - sample
 - post
